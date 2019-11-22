@@ -19,7 +19,7 @@
 </h1>
 
 <h2>AirCnC</h2>
-<p>AirCnc (<b>C</b>ode <b>a</b>nd <b>C</b>ofee) é um projeto que visa conectar empresas com spots disponíveis e programadores que procuram um lugar para tranalhar, trocar idéias e conhecer a empresa.</p>
+<p>AirCnc (<b>C</b>ode <b>a</b>nd <b>C</b>ofee) é um projeto que visa conectar empresas com spots disponíveis e programadores que procuram um lugar para trabalhar, trocar idéias e conhecer a empresa.</p>
 
 <h2>Tecnologias</h2>
 <ul>
